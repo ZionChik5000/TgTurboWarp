@@ -23,8 +23,8 @@
 4. **Process Updates:**  
    Use `Get updates` to fetch new messages and manage them.
 
-   ![Basic usage](https://i.ibb.co/pBXPTHPm/block-19-03-2025-16-01-59.png)
-   ![Advanced usage](https://i.ibb.co/99RRcZHB/block-19-03-2025-16-02-01.png)
+<img src="https://i.ibb.co/pBXPTHPm/block-19-03-2025-16-01-59.png" width="600">
+<img src="https://i.ibb.co/99RRcZHB/block-19-03-2025-16-02-01.png" width="600">
 
 ## Details
 - **Author:** ZionChik  
